@@ -1,4 +1,4 @@
-package com.stanciuandrei.spring5petclinic;
+package stanciuandrei;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
