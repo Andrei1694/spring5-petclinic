@@ -1,6 +1,6 @@
 package com.stanciu.springclinic.Model;
 
-public class PetType {
+public class PetType extends BaseEntity {
 
     private String name;
 
