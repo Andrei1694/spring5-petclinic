@@ -1,4 +1,4 @@
-package stanciuandrei;
+package com.stanciuandrei;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

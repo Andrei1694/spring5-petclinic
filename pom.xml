@@ -13,7 +13,7 @@
         <version>2.1.2.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>stanciuandrei</groupId>
+    <groupId>com.stanciuandrei</groupId>
     <artifactId>spring5-petclinic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring5-petclinic</name>
