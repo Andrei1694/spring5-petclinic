@@ -1,7 +1,5 @@
 package com.stanciu.springclinic.services.map;
 
-import com.stanciu.springclinic.Model.Owner;
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -24,9 +22,8 @@ public abstract class AbstractMapService<T,ID> {
         return object;
     }
 
-    Owner deleteById(ID id){
+    void deleteById(ID id){
         map.remove(id);
-        return null;
     }
 
     void delete(T object){
